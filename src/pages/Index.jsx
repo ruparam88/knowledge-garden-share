@@ -20,7 +20,7 @@ const Index = () => {
         <section className="bg-gradient-to-b from-primary/10 to-background py-16 px-4">
           <div className="container mx-auto max-w-4xl text-center">
             <BookOpen className="mx-auto h-12 w-12 text-primary mb-4" />
-            <h1 className="text-4xl font-bold mb-4">KnowShare Knowledge Management</h1>
+            <h1 className="text-4xl font-bold mb-4">CodeVault Knowledge Management</h1>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
               Share, discover and collaborate on knowledge resources with your team.
               From code snippets to presentation slides, make information accessible to all.
@@ -102,7 +102,7 @@ const Index = () => {
       
       <footer className="border-t py-6 px-4">
         <div className="container mx-auto text-center text-sm text-muted-foreground">
-          KnowShare © {new Date().getFullYear()} - A knowledge management system
+          CodeVault © {new Date().getFullYear()} - A knowledge management system
         </div>
       </footer>
     </div>

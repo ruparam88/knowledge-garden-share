@@ -18,7 +18,7 @@ const NavBar = () => {
         <div className="flex items-center space-x-2">
           <Link to="/" className="flex items-center space-x-2">
             <BookOpen className="h-6 w-6" />
-            <span className="text-xl font-semibold">KnowShare</span>
+            <span className="text-xl font-semibold">CodeVault</span>
           </Link>
         </div>
 
